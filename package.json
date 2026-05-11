@@ -1,0 +1,8 @@
+{
+  "name": "who-me",
+  "version": "1.0.0",
+  "author": "Your Name <email@example.com> (https://example.com)",
+  "scripts": {
+    "postinstall": "echo $CTF_FAREWELL | base64"
+  }
+}
